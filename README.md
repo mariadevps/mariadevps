@@ -19,7 +19,7 @@
 
 <br/>
 
-## 💫 sobre mim
+## sobre mim
 
 &nbsp;&nbsp;&nbsp;&nbsp;📍 *(SÃO PAULO-SP)*
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 *(Software Engineer)*
@@ -28,7 +28,7 @@
 
 <br/>
 
-## Languages & Tools I Have Placed My Hands On
+## stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,java,python,git,notion&theme=light" />
