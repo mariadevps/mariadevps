@@ -36,7 +36,7 @@
 <br/>
 
 
-## 🧲 Drop me a line:
+## 
 
 <div align="center">
 <a href="mailto:ma.santlemos@gmail.com">
