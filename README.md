@@ -31,9 +31,10 @@
 ## stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,docker,aws,postgres,git,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git&theme=light" />
 </div>
 <br/>
+
 
 
 ## 
