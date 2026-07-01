@@ -19,7 +19,7 @@
 
 <br/>
 
-## sobre mim
+## 💫 sobre mim
 
 &nbsp;&nbsp;&nbsp;&nbsp;📍 *(SÃO PAULO-SP)*
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 *(Software Engineer)*
@@ -31,30 +31,25 @@
 ## stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,docker,aws,postgres,git,figma&theme=light" />
-
 </div>
-
 <br/>
 
 
 ## 🧲 Drop me a line:
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/maria-eduarda-ribeiro-lemos-santiago-5598ba370/)/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-F7CAC9?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="mailto:ma.santlemos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E8B4BC?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-F7CAC9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-
+<a href="www.linkedin.com/in/maria-eduarda-ribeiro-lemos-santiago-5598ba370" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-E8B4BC?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="[https://open.spotify.com/user/SEU-SPOTIFY](https://open.spotify.com/user/pzsifod3ni3ppwh8a3biycxzr?si=6b1e379942f64e97)" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-D4A5A5?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 </div>
-
 <br/>
-
 <div align="center">
 <sub>🤍</sub>
 </div>
