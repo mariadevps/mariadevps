@@ -28,10 +28,10 @@
 
 <br/>
 
-## stack
+## Languages & Tools I Have Placed My Hands On
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git&theme=light" />
+<img src="[https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git&theme=light](https://camo.githubusercontent.com/91bb1e829be55716e2cf6c971847a17bd229898c529d6fe1214770489f5f7f0b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f7473747261702c68746d6c2c6373732c7673636f64652c6769746875622c6769742c6e6f74696f6e2c6669676d612c7079636861726d)" />
 </div>
 <br/>
 
