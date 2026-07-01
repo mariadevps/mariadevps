@@ -31,7 +31,7 @@
 ## Languages & Tools I Have Placed My Hands On
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,java,python,git,notion&theme=light" />
 </div>
 <br/>
 
