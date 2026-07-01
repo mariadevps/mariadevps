@@ -40,13 +40,13 @@
 
 <div align="center">
 <a href="mailto:ma.santlemos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-F7CAC9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-F7CAC9?style=for-the-badge&logo=gmail&logoColor=444444" />
 </a>
-<a href="www.linkedin.com/in/maria-eduarda-ribeiro-lemos-santiago-5598ba370" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-E8B4BC?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/maria-eduarda-ribeiro-lemos-santiago-5598ba370" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-E8B4BC?style=for-the-badge&logo=linkedin&logoColor=444444" />
 </a>
-<a href="[https://open.spotify.com/user/SEU-SPOTIFY](https://open.spotify.com/user/pzsifod3ni3ppwh8a3biycxzr?si=6b1e379942f64e97)" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-D4A5A5?style=for-the-badge&logo=spotify&logoColor=white" />
+<a href="https://open.spotify.com/user/pzsifod3ni3ppwh8a3biycxzr" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-D4A5A5?style=for-the-badge&logo=spotify&logoColor=444444" />
 </a>
 </div>
 <br/>
