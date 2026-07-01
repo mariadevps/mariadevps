@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/-Software%20Engineer-F7CAC9?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Full Stack-E8B4BC?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-D4A5A5?style=for-the-badge&logoColor=white" />
 
 </div>
 
